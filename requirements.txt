@@ -1,0 +1,7 @@
+transformers
+peft
+bitsandbytes
+torch
+llama-cpp-python
+openai-whisper
+TTS
